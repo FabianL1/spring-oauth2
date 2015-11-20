@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jdbc
+management:
+  context_path: /admin
+logging:
+  level:
+    # org.springframework.security: DEBUG
